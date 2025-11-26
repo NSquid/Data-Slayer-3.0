@@ -1,7 +1,7 @@
 import os
 import shutil
 
-base_path = r"C:\Users\Mikhael\Downloads\data-slayer-3\train"
+base_path = r"./train"
 
 folders = ["drowsiness", "non-drowsiness"]
 
