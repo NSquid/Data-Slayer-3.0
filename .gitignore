@@ -4,3 +4,4 @@ train
 
 sample_submission.csv
 __pycache__
+best_model.pth
